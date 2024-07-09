@@ -27,7 +27,7 @@ Welcome to my portfolio website! This site showcases my projects, tweets, and mo
 
 ## Customization
 
-Feel free to customize the styles in `styles.css` to match your preferences. You can change colors, fonts, and more as per your requirement.
+Feel free to customize the styles in `styles.css` to match your preferences. You can change colors, fonts, and morgite as per your requirement.
 
 ## License
 
