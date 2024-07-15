@@ -1,0 +1,38 @@
+*,
+*:after,
+*:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    overflow-y: hidden;
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+.hero-container {
+    position: relative;
+    width: 100%;
+    height: 100vh; 
+    background: url('./../Sources/images/headphones_hero_1.jpg') no-repeat center center/cover;
+}
+
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
